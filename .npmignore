@@ -1,0 +1,9 @@
+/.vscode
+/example
+/src
+/test
+/node_modules
+/coverage
+.babelrc
+.eslintrc
+webpack.config.js
